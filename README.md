@@ -1,5 +1,5 @@
 
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="120" height="120"/> </a> <a href="https://nodejs.org" target="_blank"> 
+<img src='https://github.com/Mantra27/temp-mail-nodejs/blob/main/.ignore/Screenshot%202021-11-17%20at%2012.20.08%20AM.png?raw=true'></img>
  <h2>Disposable/temp email - is a free email service that allows to receive email at a temporary address that self-destructed after a certain time elapses.</h2>
 GET EMAILS WITHOUT REVEALING YOUR IP.
  This API/Website is built with using <a href="https://www.1secmail.com/">1secmail.com</a> API.
