@@ -1,12 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
 </head>
 <body>
-    yet to be coded.
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <div id='main'>
+    <div id="root">
+      <div id='container'>
+          <h2 id='text'>
+          अस्थायी ईमेल सेवा 😄</h2>
+          <h5 id='info'>Press GET RANDOM to get<br>a random email and get started.</h5>
+          <a>Email: <input type="email" name="email" id="mail" readonly unselectable="off"></a><input type="button" value="copy" id='copy'><p></p>
+          <a><a id='btn' onclick="myFunction()" class="button"  unselectable="on"
+            onselectstart="return false;" 
+            onmousedown="return false;">GET RANDOM</a></a><p>
+           
+      </div>
+    </div>
+
+  </div>
+  <script src="dist/clipboard.min.js"></script>
+  
+      <link rel="stylesheet" href="styles.css">
+      <script src="index.js"></script>
 </body>
 </html>
