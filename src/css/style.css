@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 body{
   overflow:visible;
@@ -42,7 +41,12 @@ body{
   position: relative;
   display: inline-block;
 }
-
+#info2{
+  display: none;
+}
+#mail{
+  width: 180px;
+}
 .dropdown-content {
   display: none;
   position: absolute;
