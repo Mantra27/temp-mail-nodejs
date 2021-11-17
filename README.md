@@ -4,5 +4,5 @@
 <a><img src='https://img.shields.io/github/commit-activity/y/mantra27/temp-mail-nodejs'></a>
  <h2>Disposable/temp email - is a free email service that allows to receive email at a temporary address that self-destructed after a certain time elapses.</h2>
 GET EMAILS WITHOUT REVEALING YOUR IP.
- This API/Website is built with using <a href="https://www.1secmail.com/">1secmail.com</a> API.
+ This API/Website is powered by <a href="https://www.1secmail.com/">1secmail.com</a> API.
 
