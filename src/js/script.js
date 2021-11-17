@@ -45,7 +45,7 @@ document.getElementById("btn").addEventListener("click", () => {
       document.getElementById("mail").value = data.data;
       console.log("Success:", data);
       document.getElementById("info").innerText =
-        "New Emails on this address will be displayed here.";
+        "New Emails on this address will be displayed here(no need to refresh)";
       document.getElementById("btn").innerText = "Mailbox(0 new mails);";
       return data.data.split("@");
     })
